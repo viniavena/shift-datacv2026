@@ -1,12 +1,12 @@
 # SHIFT: Selecting High-Information Frames for Training Object Detectors on Driving Videos
 
-> **Paper:** Vinicius Avena, Luan Pilon, Allan Pinto, Eduardo Valle  
+> **Paper:** Vinicius Avena, Joao V. Sobrinho, Douglas Castillo, Rodrigo S. Couto, Miguel E. M. Campista, Luís H. M. K. Costa, André C. P. L. F. Carvalho
 > *Which Frames Matter? Frame Selection for Training Object Detectors on Driving Videos*  
 > CVPR Workshop on Data-Centric Computer Vision (DataCV), 2026  
 > [[Paper](https://openreview.net/)] <!-- replace with final DOI/arXiv link -->
 
 > **Dataset:** AVADiP-DFS — Driving Frame Selection Benchmark  
-> Hugging Face: [https://huggingface.co/datasets/](https://huggingface.co/datasets/) <!-- replace with final HF link -->  
+> Hugging Face: [https://huggingface.co/datasets/]([https://huggingface.co/datasets/](https://huggingface.co/datasets/vavena/AVADiP-DFS/tree/main)) <!-- replace with final HF link -->  
 > 160 driving video sequences · 48,000 frames at 30 FPS · exhaustive bounding-box annotations
 
 ---
@@ -210,7 +210,9 @@ If you use this code or the AVADiP-DFS dataset, please cite:
 ```bibtex
 @inproceedings{avena2026shift,
   title     = {Which Frames Matter? Frame Selection for Training Object Detectors on Driving Videos},
-  author    = {Avena, Vinicius and Pilon, Luan and Pinto, Allan and Valle, Eduardo},
+  author    = author = {Avena, V. and Sobrinho, J. V. D. and Castilho, D. and Couto, R. S. and
+            Campista, M. E. M. and Costa, L. H. M. K. and
+            Carvalho, A. C. P. L. F.},
   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (DataCV)},
   year      = {2026},
 }
@@ -219,7 +221,9 @@ If you use this code or the AVADiP-DFS dataset, please cite:
 ```bibtex
 @dataset{avena2026avadip,
   title     = {{AVADiP-DFS}: Annotated Video Autonomous Driving in Peri-urban areas -- Driving Frame Selection Benchmark},
-  author    = {Avena, Vinicius and Pilon, Luan and Pinto, Allan and Valle, Eduardo},
+  author    = author = {Avena, V. and Sobrinho, J. V. D. and Castilho, D. and Couto, R. S. and
+            Campista, M. E. M. and Costa, L. H. M. K. and
+            Carvalho, A. C. P. L. F.},
   year      = {2026},
   publisher = {Hugging Face},
   url       = {https://huggingface.co/datasets/},
