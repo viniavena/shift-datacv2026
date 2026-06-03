@@ -6,7 +6,7 @@
 > [[Paper](https://openreview.net/)] <!-- replace with final DOI/arXiv link -->
 
 > **Dataset:** AVADiP-DFS — Driving Frame Selection Benchmark  
-> Hugging Face: [https://huggingface.co/datasets/]([https://huggingface.co/datasets/](https://huggingface.co/datasets/vavena/AVADiP-DFS/tree/main)) <!-- replace with final HF link -->  
+> Hugging Face: [[Dataset](https://huggingface.co/datasets/vavena/AVADiP-DFS/tree/main)] <!-- replace with final HF link -->  
 > 160 driving video sequences · 48,000 frames at 30 FPS · exhaustive bounding-box annotations
 
 ---
